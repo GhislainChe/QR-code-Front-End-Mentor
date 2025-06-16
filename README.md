@@ -44,8 +44,6 @@ To see how you can add code snippets, see below:
     margin-bottom: 10px;
 }
 ```
-```
-
 
 ### Continued development
 
